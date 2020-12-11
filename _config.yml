@@ -7,38 +7,36 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Cybersecurity UOL13                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Hello, i like to hack things. Check the source code  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  465449666f543875564e6258464a4c74724a39315654716971504f624d4b577959504f624c4b4d7956545274713239684d54496c4d614966565445757246527446464f666e4a67795655796971464e75564e625842767874
+  For the curious ones, you know who you are! :)
+# fill in the base hostname & #STARSWITHROT47 protocol for your site, e.g., 'https://leandrolisboaleite.github.io'
+url: 'https://leandrolisboaleite.github.io'
 
-# fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
-url: ''
+author: Leandro Lisboa Leite                  # change to your full name
 
-author: your_full_name                  # change to your full name
-
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/uolie.png   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: leandrolisboaleite             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: leitedobem          # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Leandro Lisboa Leite                  # it will shows as the copyright owner in Footer
+  email: leandrolisboaleite@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
+    - https://twitter.com/leitedobem      # change to your twitter homepage
+    - https://github.com/leandrolisboaleite       # change to your github homepage
+    # Uncomment below t#AND THEN IT GOES TO HEX ? o add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/leandrolisboaleite
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -49,7 +47,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Sao_Paulo
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
@@ -79,7 +77,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # <light|dark>
+theme_mode:   # <dark>
 
 # boolean type, the global switch for ToC in posts.
 toc: true
